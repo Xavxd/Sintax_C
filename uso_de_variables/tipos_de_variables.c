@@ -37,5 +37,14 @@ int main(){
     return 0;
 }
 
+/*Simbolos para poder imprimir o recibir dartos de cada variable:
+int=> %d
+float=> %f
+double=> %lf
+Long double=> %Lf
+string=> %s
+unsigned=> %u
+*/
+
 /*nota no siempre se usan todas la variables las mas comunes son: 
 int, double, char, bool(pero bool no la usaremos aparentemente por ahora)*/ 

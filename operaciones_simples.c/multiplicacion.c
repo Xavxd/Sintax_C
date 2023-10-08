@@ -15,6 +15,6 @@ int main(){
     resultado=a*b;
     printf("El resultado de la multiplicación es %d", resultado);
 
-    //poner return 0 para que solo muestre el resultado del programa
+    //poner return 0 es parte de la estructura del programa tambien
     return 0;
 }

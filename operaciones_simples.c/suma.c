@@ -18,5 +18,6 @@ int main(){
     //poner return 0 para que solo muestre el resultado del programa
     return 0;
 
-    /*Nota: esto es un comentario para poder ejecutar lo que esta comentado elimina los simbolos (/ * ) y (* /) */
+    /*Nota: esto es un comentario por lo que el programa no lo ejecuta; para poder ejecutar lo que esta comentado 
+    elimina los simbolos (/ * ) y (* /) */
 }
