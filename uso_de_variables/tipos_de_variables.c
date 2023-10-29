@@ -24,6 +24,8 @@ int main(){
     //char es para letras o caracteres y pueden ser mayusculas o minusculas 
     char letra="A";
 
+    
+
     /*Tambien podemos usar la variable bool que es para establecer un resultado 'true' o 'false'
     pero para esto hay que importar otra libreria que es <stdbool.h> y se veria:
 
@@ -42,7 +44,6 @@ int=> %d
 float=> %f
 double=> %lf
 Long double=> %Lf
-string=> %s
 unsigned=> %u
 */
 
