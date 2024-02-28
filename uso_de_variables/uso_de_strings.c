@@ -18,7 +18,7 @@ int main(){
     printf("%s \n",nombre_completo);
 
     int tamaño = strlen(nombre_completo);
-    printf("El tamaño de la string es: %d",tamaño);
+    printf("El tamaño de la string es: %d \n",tamaño);
 
     int son_iguales =strcmp(nombre,segundo_nombre);
     printf("%d",son_iguales);

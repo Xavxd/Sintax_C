@@ -7,9 +7,12 @@
 por el momento no es necesario  */
 int main(){
     /*----------variables--------*/
+    int n=0;// variable inicializada 
+    int n2;// variable vacia
+
     //Estas variables son parecidas pero long soporta numeros mas grandes que int
-    int numero_int=10;
-    long numero_long=1000000;
+    int numero_int=10;//4 bytes
+    long numero_long=1000000;//8 bytes
 
     //short es usado para enteros muy pequeños
     short nuemro_short= -10;
@@ -24,8 +27,6 @@ int main(){
     //char es para letras o caracteres y pueden ser mayusculas o minusculas 
     char letra="A";
 
-    
-
     /*Tambien podemos usar la variable bool que es para establecer un resultado 'true' o 'false'
     pero para esto hay que importar otra libreria que es <stdbool.h> y se veria:
 
@@ -33,8 +34,8 @@ int main(){
     
     int main (){
         bool isTrue= true;
-    }
-    */
+        bool isFalse= false;
+    }*/
    
     return 0;
 }
